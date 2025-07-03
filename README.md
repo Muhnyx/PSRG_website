@@ -1,6 +1,6 @@
-# Photonic Systems Research Group @ Michigan State University
+# Photonic Systems Research Group
 
-Welcome to the **Photonic Systems Research Group (PSRG)** at Michigan State University!
+Welcome to the **Photonic Systems Research Group** at Michigan State University! Contributions needed and very welcome! Majority of needed contributions are text on the website and does not need much technical knowledge. Currently, majority of text I'm using is generative AI placeholders that make some sense and give some direction but are not worthy of publication.
 
 > **This repository and website are a work in progress.**  
 > Content, code, and documentation are actively being updated.
@@ -9,7 +9,7 @@ Welcome to the **Photonic Systems Research Group (PSRG)** at Michigan State Univ
 
 ## About PSRG
 
-- Develop
+- **Who are we?**
 
 ---
 
@@ -17,14 +17,15 @@ Welcome to the **Photonic Systems Research Group (PSRG)** at Michigan State Univ
 
 1. Clone this repo:
 
-  ```bash
-  git clone https://github.com/Muhnyx/PSRG_website
-  ```
+   ```bash
+   git clone https://github.com/Muhnyx/PSRG_website
+   ```
 
 1. Install Hugo (<https://gohugo.io/installation/>)
-1. "hugo server" on the base and use the link in the terminal to access the site locally
 
-## Further documentation for help can be found in
+1. Run `hugo server` in the base directory and use the link in the terminal to access the site locally
+
+## Further Documentation
 
 - <https://docs.hugoblox.com/tutorial/resume/>
 - <https://bootstrap.hugoblox.com/getting-started/page-builder/>
