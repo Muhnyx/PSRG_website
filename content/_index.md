@@ -9,8 +9,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Slide 1
-        content: "I like potatoes"
+      - title: Vision & Mission
+        content: "We engineer low-noise, ultrafast lasers and agile photonic systems for communications, sensing, and signal processing."
         align: center
         background:
           image:
@@ -19,8 +19,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Slide 2
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul'
+      - title: Research & Opportunities
+        content: 'Our group focuses on microwave photonics, photonic integrated circuits, and multifunctional system design — from concept to lab validation. Students gain hands-on experience with cutting-edge tools, publish in top journals, and work across academia, industry, and government.'
         align: left
         background:
           image:
@@ -29,8 +29,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Slide 3
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul'
+      - title: Build, Publish, and Lead — Together
+        content: 'At the Photonics Systems Research Group, you''ll join a collaborative, mentorship-driven environment focused on innovation and impact.'
         align: right
         background:
           image:
@@ -77,7 +77,7 @@ sections:
   - block: hero
     content:
       title: |
-        Photonics Systems Research Group
+        Photonic Systems Research Group
       image:
         filename: welcome.jpg
       text: |

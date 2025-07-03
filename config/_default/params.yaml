@@ -47,7 +47,7 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      # enable: false
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'hhttps://github.com/Muhnyx/PSRG_website'
     content_dir: content
     branch: main
   avatar:
