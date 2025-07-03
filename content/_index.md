@@ -3,71 +3,117 @@
 title:
 date: 2022-10-24
 type: landing
+  
 
 sections:
+  - block: slider
+    content:
+      slides:
+      - title: Slide 1
+        content: "orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul"
+        align: center
+        background:
+          image:
+            filename: landing.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Slide 2
+        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Slide 3
+        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: JOIN US
+          url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '500px'
+      # is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2000
+
+
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: landing.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #       spacing:
+  #         # Customize the section spacing. Order is top, right, bottom, left.
+  #         padding: ['20px', '0', '200px', '0']
+
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Photonics Systems Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+        'Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul'
+  # - block: collection
+  #   content:
+  #     title: Latest Preprints
+  #     text: ""
+  #     count: 5
+  #     filters:
+  #       folders:
+  #         - publication
+  #       publication_type: 'article'
+  #   design:
+  #     view: citation
+  #     columns: '1'
 
+
+  # A section to display blog posts
   - block: collection
+    id: section-1
     content:
-      title: Latest Preprints
-      text: ""
-      count: 5
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      # Display content from the `content/post/` folder
       filters:
         folders:
-          - publication
-        publication_type: 'article'
+          - post
     design:
-      view: citation
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      # Choose your content listing view - here we use the `showcase` view
+      view: showcase
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: true
 
   - block: markdown
     content:
@@ -77,4 +123,5 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+      
 ---
