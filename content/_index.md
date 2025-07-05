@@ -9,8 +9,10 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Vision & Mission
-        content: "We engineer low-noise, ultrafast lasers and agile photonic systems for communications, sensing, and signal processing."
+      - title: Photonics Systems Research Group
+
+        content: "Advancing Light-Based Technologies for Next-Generation Communication and Sensing"
+
         align: center
         background:
           image:
@@ -19,8 +21,9 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Research & Opportunities
-        content: 'Our group focuses on microwave photonics, photonic integrated circuits, and multifunctional system design — from concept to lab validation. Students gain hands-on experience with cutting-edge tools, publish in top journals, and work across academia, industry, and government.'
+      - title: Our Research Areas
+
+        content: 'Integrated Photonics • Microwave Photonics • mmWave Signal Processing'
         align: left
         background:
           image:
@@ -29,9 +32,14 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Build, Publish, and Lead — Together
-        content: 'At the Photonics Systems Research Group, you''ll join a collaborative, mentorship-driven environment focused on innovation and impact.'
-        align: right
+      - title: Enabling the Future of Connectivity
+
+        content: '5G/6G Wireless • RF Photonics • Quantum & AI-Integrated Systems 
+        
+        <br>
+
+Our research supports high-speed, low-power systems for communications, sensing, and computing — from photonic front ends to smart RF links.'
+        align: left
         background:
           image:
             filename: welcome.jpg
@@ -83,7 +91,9 @@ sections:
       text: |
         <br>
         
-        'Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ul'
+        <strong>Advancing Light-Based Technologies for Modern Communications</strong><br><br> We develop next-generation photonic integrated circuits and optical signal processing techniques to solve challenges in wireless communications, sensing, and computing. Our research spans microwave photonics, mmWave signal chains, and chip-scale system design — pushing the frontiers of speed, efficiency, and integration.
+  
+  
   # - block: collection
   #   content:
   #     title: Latest Preprints
@@ -99,17 +109,17 @@ sections:
 
 
   # A section to display blog posts
-  - block: collection
-    id: section-1
-    content:
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  # - block: collection
+  #  id: section-1
+    # content:
+     # text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       # Display content from the `content/post/` folder
-      filters:
-        folders:
-          - post
-    design:
+     # filters:
+       # folders:
+        #  - post
+   # design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+     # columns: '1'
       # Choose your content listing view - here we use the `showcase` view
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
