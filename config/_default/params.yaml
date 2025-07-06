@@ -11,15 +11,15 @@ appearance:
   font: native
   font_size: L
 
-# SEO
+# SEO TODO
 
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'Research Laboratory'
+    org_name: 'Photonic Systems Research Laboratory'
+    description: 'Advancing optical technologies for communication, sensing, and intelligent systems. Research in microwave photonics, ultrafast lasers, photonic integrated circuits, quantum and AI-enabled photonics.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,12 +45,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} PSRG. All rights reserved.'
     license:
       enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
 
 # Localization
 
@@ -72,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'hhttps://github.com/Muhnyx/PSRG_website'
+    url: 'https://github.com/Muhnyx/PSRG_website'
     content_dir: content
     branch: main
   avatar:
