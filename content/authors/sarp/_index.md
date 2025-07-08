@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Muhseen Musthafa
+title: Sarp Ozel
 
 # Full name (for SEO)
-first_name: Muhseen
-last_name: Musthafa
+first_name: Sarp
+last_name: Ozel
 
 # Username (this should match the folder name)
 authors:
-  - muhseen
+  - sarp
 
 # Is this the primary user of the site?
 superuser: false
