@@ -9,8 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        We welcome collaboration inquiries and prospective-student questions.
-        Please email eor reach out to Prof. Thomas R. Clark for research opportunities.
+        We welcome collaboration inquiries and prospective-student questions. Please email or reach out to Prof. Thomas R. Clark for research opportunities.
       email: trclark@msu.edu
       # phone: 888 888 88 88
       address:
