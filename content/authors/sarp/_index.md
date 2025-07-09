@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: Undergraduate Research Assistant 
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,19 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include playing with kittens and walking dogs.
+bio: Undergraduate student with interest in RF-optical integration, ultrafast and nonlinear optics, LIDAR systems, PICs and laser based instrumentation. Current work involves femtosecond pulse characterization, optical system design and experimentation with SDRs. 
 
 interests:
-  - Jumping
-  - Sitting
-  - Running
+  - Soccer
+  - Travelling
+  - Aerospace
+
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: BS in Electrical and Computer Engineering
+    institution: Michigan State University
+    year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:ozelmeh1@msu.edu' 
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -65,12 +60,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'ozelmeh1@msu.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Undergraduate Research Assistant 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
