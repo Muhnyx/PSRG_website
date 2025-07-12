@@ -1,0 +1,20 @@
+[light]
+# Michigan State University brand palette – single light theme only
+primary           = "#18453B"  # Spartan Green (buttons, links, accents)
+primary_light     = "#4BB498"  # lighter accent/hover shade
+primary_dark      = "#10382F"  # focus/active, outlines
+
+menu_primary      = "#18453B"  # Spartan Green nav background  # navbar background
+menu_text         = "#FFFFFF"  # nav text  # navbar item text
+menu_text_active  = "#FFFFFF"  # active nav item
+menu_title        = "#FFFFFF"  # site title text
+
+background        = "#F5F5F5"   # slightly-grey page background
+home_section_odd  = "#F5F5F5"   # first, third, … home sections
+home_section_even = "#F5F5F5"   # keep alternates pure white
+
+
+
+link              = "#18453B"
+link_hover        = "#10382F"
+link_visited      = "#10382F"  # visited links

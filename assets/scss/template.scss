@@ -1,9 +1,53 @@
-// Make page header alignment consistent with widget page header alignment
+/* -------------------------------------------------
+ * Custom site overrides
+ * -------------------------------------------------*/
+
+/* 1. Page header alignment */
 .universal-wrapper h1 {
   text-align: center;
 }
 
-// Center the CTA shortcode button
+/* 2. Center CTA shortcode button group */
 .cta-group {
   justify-content: center;
+}
+
+/* 3. Navbar styling — Spartan Green with subtle shadow */
+nav#navbar-main,
+.navbar {
+  /* Mild top→bottom gradient for depth */
+  background: #18453B; /* fallback solid */
+  background-image: linear-gradient(180deg, #1F5B4D 0%, #18453B 100%);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* 4. Title prominence */
+.navbar-brand {
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+/* 5. Navigation links */
+.navbar-menu a {
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  transition: background-color 0.2s;
+}
+
+.navbar-menu a:hover {
+  background-color: rgba(255, 255, 255, 0.07);
+}
+
+.navbar-menu .is-active {
+  border-bottom: 3px solid #FFFFFF;
+}
+
+/* 6. Extra breathing room */
+.navbar {
+  padding: 0.6rem 1.2rem;
+}
+
+/* 7. Hero overlay tint for brand cohesion */
+#hero {
+  position: relative; /* ensure positioning context for ::after */
 }

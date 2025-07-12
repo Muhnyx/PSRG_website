@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: msu_green    # must match the file name
   font: native
   font_size: L
+  css: ["css/custom.css"]
 
 # SEO TODO
 

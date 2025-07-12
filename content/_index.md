@@ -62,10 +62,12 @@ sections:
         Research Overview
       image:
         filename: Laser.jpg
+        filters:
+          brightness: 0.55        # keep the image readable
       text: |
         <br>
-
-        <strong>We advance photonic technologies for high-speed communications, sensing, and signal processing.</strong><br>    Integrated photonics, microwave photonics, and ultrafast laser systems to enable scalable, energy-efficient solutions for future information networks and intelligent systems.
+        <strong>We advance photonic technologies for high-speed communications, sensing, and signal processing.</strong><br>
+        Integrated photonics, microwave photonics, and ultrafast laser systems to enable scalable, energy-efficient solutions for future information networks and intelligent systems.
 
   - block: markdown
     content:
