@@ -47,7 +47,9 @@ nav#navbar-main,
   padding: 0.6rem 1.2rem;
 }
 
-/* 7. Hero overlay tint for brand cohesion */
-#hero {
-  position: relative; /* ensure positioning context for ::after */
+/* Remove top padding from the section that follows the hero */
+.home-section:nth-of-type(3) {        /* hero = first, markdown = second */
+  padding-top: 0 !important;
 }
+/* Kill the hero’s bottom padding */
+#hero { padding-bottom: 0 !important; }

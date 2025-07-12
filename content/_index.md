@@ -63,18 +63,26 @@ sections:
       image:
         filename: Laser.jpg
         filters:
-          brightness: 0.55        # keep the image readable
+          brightness: 0.55
       text: |
         <br>
         <strong>We advance photonic technologies for high-speed communications, sensing, and signal processing.</strong><br>
         Integrated photonics, microwave photonics, and ultrafast laser systems to enable scalable, energy-efficient solutions for future information networks and intelligent systems.
-
+    design:
+         # full-height hero
+      background:
+        overlay_color: '#000000'        # darkens busy image
+        overlay_opacity: 0.45           # 45 % tint
+      indicators: dots                  # slide dots instead of dashes
+      
   - block: markdown
     content:
-      subtitle: Advancing Photonic Systems for Communications, Sensing, and Intelligence
+      # title: About the Group
+      # subtitle: Advancing Photonic Systems for Communications, Sensing, and Intelligence
       text: |
+        ---
+        
         Our research interests span the development, integration, and characterization of low-noise, ultrafast lasers and advanced photonic systems and devices. We focus on leveraging photonic technologies to enable next-generation solutions for communications, sensing, and signal processing, bridging foundational optical science with system-level engineering to address the evolving demands of information and intelligent technologies.
-
         <br>
 
         **Principal Technology Areas**:
@@ -99,6 +107,9 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
       design:
         columns: '1'
+        spacing:
+        # order = top, right, bottom, left
+          padding: ['0rem', '0', '4rem', '0']   # top gap gone, bottom stays 4 rem
 
 
 # Commented sections moved below
