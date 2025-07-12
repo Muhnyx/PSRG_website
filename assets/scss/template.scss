@@ -53,3 +53,9 @@ nav#navbar-main,
 }
 /* Kill the hero’s bottom padding */
 #hero { padding-bottom: 0 !important; }
+
+/* Make names larger in People cards */
+.portrait-title > h2 {
+  font-size: 1.05rem !important;   /* bump up from ~1rem */
+  font-weight: 400;               /* optional bolding */
+}
