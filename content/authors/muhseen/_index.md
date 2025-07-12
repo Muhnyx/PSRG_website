@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
