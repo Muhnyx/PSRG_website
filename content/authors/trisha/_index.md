@@ -19,7 +19,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
   - name: Michigan State University
-    url: ''
+    url: 'https://msu.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Trisha needs a short bio!
@@ -75,7 +75,7 @@ email: 'boratris@msu.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Doctoral Researchers
 ---
 
 I am a PhD student in the Photonic Subsystems Research Group (PSRG) at Michigan State University, advised by Dr. Thomas Clark. My research focuses on photonic integrated circuits (PICs), microwave photonics, and high-frequency systems for wireless and mmWave communication.

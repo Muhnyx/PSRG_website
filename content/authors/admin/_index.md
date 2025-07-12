@@ -15,7 +15,7 @@ role: Professor, Electrical and Computer Engineering (ECE), College of Engineeri
 # Organizations/Affiliations
 organizations:
   - name: Michigan State University
-    url: ''
+    url: 'https://msu.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. Clark’s research interests include the development and characterization of low-noise and ultrafast lasers and photonic systems and devices, as well as the application of photonic technology to the development of advanced systems for communications, sensing and signal processing. 
