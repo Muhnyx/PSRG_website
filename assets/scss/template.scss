@@ -59,3 +59,36 @@ nav#navbar-main,
   font-size: 1.1rem !important;   /* bump up from ~1rem */
   font-weight: 400;               /* optional bolding */
 }
+/* ───────── NAVBAR HOVER EFFECT ───────── */
+.navbar-nav .nav-link {
+  position: relative;
+  transition: color .25s ease;
+}
+
+/* underline – hidden by default */
+.navbar-nav .nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;            /* sits just below text */
+  height: 3px;
+  width: 0;
+  background: #22C55E;     /* light Spartan-green  (#22C55E) */
+  transition: width .25s ease;
+}
+
+/* hover state */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #22C55E;          /* same green as the bar */
+}
+.navbar-nav .nav-link:hover::after,
+.navbar-nav .nav-item.active .nav-link::after {
+  width: 100%;             /* bar slides to full width */
+}
+
+/* optional – lift the whole nav item slightly */
+.navbar-nav .nav-item:hover {
+  transform: translateY(-2px);
+  transition: transform .25s;
+}
