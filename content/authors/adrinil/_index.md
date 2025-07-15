@@ -25,17 +25,19 @@ organizations:
 bio: Graduate student with interest in microwave and millimeter wave photonic system design, PICs etc.
 
 interests:
-- Making music
-- Painting
-- Film making
-- Photography
-- Working out
+  - Photonic Integrated Circuit (PIC) design
+  - Microwave and mmWave system design
+  - Photonics and ultrafast lasers
 
 education:
   courses:
-  - course: BS in Electrical and Electronics Engineering
+  - course: BS in Electrical Engineering
     institution: Michigan State University
-    year: 2025
+    year: 2021-2025
+
+  - course: PhD in Electrical Engineering
+    institution: Michigan State University
+    year: 2025-ongoing
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -67,6 +69,7 @@ email: 'denadrin@msu.edu'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Doctoral Researchers
+  - 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student in the Photonic Systems Research Group (PSRG) at Michigan State University, advised by Dr. Thomas Clark. My research focuses on photonic integrated circuits (PICs), microwave and mmWave photonic system design and analysis. I graduated from Michigan State University with a bachelor's degree in electrical engineering in May 2025 and work experience background in system design and integrity, circuit design, VLSI, microprocessors and microcontroller architecture etc. Working in photonics in grad school interests me because this field has a brighter future in heterogenous integration, high-frequency processing with minimum loss etc. In my leisure time, I like making music, painting, photography, making films and working out.# add adrinil linked in
