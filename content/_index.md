@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-        - title: Photonics Systems Research Group
+        - title: Photonic Systems Research Group
           content: "Advancing Light-Based Technologies for Next-Generation Communication and Sensing"
           align: center
           background:

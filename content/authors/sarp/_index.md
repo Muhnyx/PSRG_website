@@ -68,4 +68,14 @@ user_groups:
   - Undergraduate Researchers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student in the Photonic Systems Research Group (PSRG) at Michigan State
+University, advised by Dr. Thomas Clark. My research focuses on photonic integrated
+circuits (PICs), microwave and mmWave photonic system design and analysis.
+
+I graduated from Michigan State University with a bachelor's degree in electrical
+engineering in May 2025 and work experience background in system design and integrity,
+circuit design, VLSI, microprocessors and microcontroller architecture etc. Working in
+photonics in grad school interests me because this field has a brighter future in
+heterogenous integration, high-frequency processing with minimum loss etc.
+In my leisure time, I like making music, painting, photography, making films and working
+out.
