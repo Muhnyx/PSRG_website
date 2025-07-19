@@ -9,7 +9,7 @@ sections:
     content:
       slides:
         - title: Photonic Systems Research Group
-          content: "Advancing Light-Based Technologies for Next-Generation Communication and Sensing"
+          content: "Advancing Light-Based Technologies for Next-Generation Communication, Sensing, and Processing"
           align: center
           background:
             image:
@@ -19,7 +19,7 @@ sections:
             position: right
             color: '#666'
         - title: Our Research Areas
-          content: 'Integrated Photonics • Microwave Photonics • mmWave Signal Processing'
+          content: 'Integrated Photonics • Microwave Photonics • mmWave Signal Processing • Novel Sensing • Artificial Intelligence, Autonomy, and Quantum System Enabling Technologies'
           align: left
           background:
             image:
@@ -29,11 +29,7 @@ sections:
             position: center
             color: '#555'
         - title: Enabling the Future of Connectivity
-          content: "5G/6G Wireless • RF Photonics • Quantum & AI-Integrated Systems
-
-            <br>
-
-            Our research supports high-speed, low-power systems for communications, sensing, and computing — from photonic front ends to smart RF links."
+          content: "Our research supports high-speed, low-power systems for communications, sensing, and processing"
           align: left
           background:
             image:
@@ -61,7 +57,7 @@ sections:
       title: |
         Research Overview
       image:
-        filename: Laser.jpg
+        filename: lab.jpg
         filters:
           brightness: 0.55
       text: |
@@ -88,21 +84,22 @@ sections:
         **Principal Technology Areas**:
         - Millimeter-wave and microwave photonic systems, including fiber-wireless architectures and agile RF photonic links
         - Photonic integrated circuits for microwave photonics, with an emphasis on realizing agile, reconfigurable, and multifunctional systems
-        - Ultrafast and high-power free-space and fiber lasers for advanced optical sources and signal generation
-        - Optical characterization, nonlinear laser-matter and plasma interactions, and precision measurement techniques
+        - Ultrafast lasers and optical frequency comb development for advanced optical sources and signal generation 
+        - Optical characterization and precision measurement techniques 
         - Numerical modeling, simulation, and data-driven analysis of complex photonic and physical systems
 
         <br>
 
         **Emerging Applications**:
+        - Agile mmWave and sub-THz photonic signal processing for next-generation wireless and sensing networks
         - Enabling subsystems for quantum computing and photonic sensing platforms
         - Photonic systems supporting autonomy and artificial intelligence, including high-speed, low-latency signal processing
-        - Agile mmWave and sub-THz photonic signal processing for next-generation wireless and sensing networks
+        
         - High-performance photonic components for secure, scalable, and energy-efficient networks
 
         <br>
 
-        Our multidisciplinary team brings together extensive experience from academia, industry, and national laboratories, combining deep technical expertise with innovative system integration. With a strong record of scholarly publications and patents, the Photonic Systems Research Group is committed to advancing the state of the art in photonic science and engineering to address real-world challenges and enable transformative technologies.
+        The Photonic Systems Research Group is committed to advancing the state of the art in photonic science and engineering to address real-world challenges and enable transformative technologies.
 
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
       design:
