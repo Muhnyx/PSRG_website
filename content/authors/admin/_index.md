@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'trclark@msu.edu'
+    link: 'trclark@egr.msu.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=4LskN-8AAAAJ

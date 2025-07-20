@@ -10,7 +10,10 @@ sections:
       title: Contact
       text: |-
         We welcome collaboration inquiries and prospective-student questions. Please email or reach out to Prof. Thomas R. Clark for research opportunities.
-      email: trclark@msu.edu
+        Email : t$rcl%akr@egr.msu.edu, please remove $ and %, then swap the last two letters of the username.
+
+        <br>
+
       # phone: 888 888 88 88
       address:
         street: 428 S Shaw Ln
@@ -38,10 +41,9 @@ sections:
     
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
-        netlify:
+          id: xdkdawda
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
