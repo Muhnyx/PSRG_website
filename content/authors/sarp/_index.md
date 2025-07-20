@@ -22,12 +22,17 @@ organizations:
     url: 'https://msu.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate student with interest in RF-optical integration, ultrafast and nonlinear optics, LIDAR systems, PICs and laser based instrumentation. Current work involves femtosecond pulse characterization, optical system design and experimentation with SDRs. 
+bio: Undergraduate researcher in Electrical Engineering at MSU, specializing in ultrafast optics, photonic systems, and hands-on experimentation with advanced instrumentation.
 
 interests:
-  - Soccer
-  - Travelling
-  - Aerospace
+  - RF-Optical Integration
+  - Ultrafast and Nonlinear Optics
+  - LIDAR and Laser-Based Instrumentation
+  - Photonic Integrated Circuits (PICs)
+  - SDR Applications in Photonics
+  - Cloud-Based Control Systems
+  - Avionics and Aerospace Systems
+  - Cyber-Physical System Security
 
 
 education:
@@ -44,15 +49,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ozelmeh1@msu.edu' 
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/sarp-ozel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,14 +67,6 @@ user_groups:
   - Undergraduate Researchers
 ---
 
-I am a PhD student in the Photonic Systems Research Group (PSRG) at Michigan State
-University, advised by Dr. Thomas Clark. My research focuses on photonic integrated
-circuits (PICs), microwave and mmWave photonic system design and analysis.
+I am an undergraduate student in Electrical Engineering at Michigan State University and an undergraduate research assistant in the Photonic Systems Research Group (PSRG), advised by Dr. Thomas Clark. My current work focuses on hands-on experimentation in ultrafast optics, where I am building an autocorrelator for femtosecond pulse characterization, using two-photon absorption and second-harmonic generation as non-linear detection methods. Looking ahead, I plan to explore more advanced areas of photonics, as I continue developing both my experimental and theoretical skills in the field.
 
-I graduated from Michigan State University with a bachelor's degree in electrical
-engineering in May 2025 and work experience background in system design and integrity,
-circuit design, VLSI, microprocessors and microcontroller architecture etc. Working in
-photonics in grad school interests me because this field has a brighter future in
-heterogenous integration, high-frequency processing with minimum loss etc.
-In my leisure time, I like making music, painting, photography, making films and working
-out.
+Across various club involvements, courses, and projects, my technical background spans analog and digital signal processing, PCB design, ultrasonic sensing, Verilog based digital system design, and hardware-software interfacing for communication and control, including FPGA and microcontroller-based system design. At Michigan State University, I developed a real-time closed loop cloud architecture for the operation and control of aggregated distributed energy resources (DERs) and other power systems, submitting a paper as first author. I have prior experience working at Turkish Aerospace Industries where I supported ground test operations and assisted in resolving avionics issues for Turkey’s fifth generation fighter jet as well as contributing to flight control system simulations. Additionally, I gained experience in cybersecurity during my internship at Palo Alto Networks working on various projects involving firewall setup, traffic analysis, and automation. In particular my experience in aerospace systems sparked a broader interest that I am eager to explore further alongside my future work in photonic systems.
