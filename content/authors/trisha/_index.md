@@ -22,7 +22,7 @@ organizations:
     url: 'https://msu.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Trisha needs a short bio!
+bio: Trisha Bora is a Graduate Research Assistant in the Department of Electrical and Computer Engineering at Michigan State University. Her research focuses on photonic systems for mmWave applications.
 
 interests:
 - Photonic Integrated Circuits (PICs)
