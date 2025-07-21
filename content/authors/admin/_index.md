@@ -80,7 +80,7 @@ Dr. Clark is a member of Optica and a senior member of the Institute of Electric
 
 #### Links
 
-[Faculty page at ECE MSU](https://engineering.msu.edu/faculty/Thomas-Clark)
-[Google Scholar](https://scholar.google.com/citations?user=4LskN-8AAAAJ&hl=en)
-[LinkedIn](https://www.linkedin.com/in/thomas-clark-a55956/)
-[JLT Associate Editor page](https://www.ieee-jlt.org/Thomas-R-Clark)
+- [Faculty page at ECE MSU](https://engineering.msu.edu/faculty/Thomas-Clark)
+- [Google Scholar](https://scholar.google.com/citations?user=4LskN-8AAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/thomas-clark-a55956/)
+- [JLT Associate Editor page](https://www.ieee-jlt.org/Thomas-R-Clark)
